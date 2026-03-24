@@ -36,7 +36,7 @@
 <!--                    🌲 TECH FOREST (KEPT)                         -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
-## 🌲 Tech Forest
+## 📖 Cursed Technique
 
 <div align="center">
 
